@@ -1,5 +1,13 @@
 #!/usr/bin/python
 
+#This is hybrid of two examples for two different projects:
+# - https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/multilayer_perceptron.py
+# - https://pythonhosted.org/neurolab/ex_newff.html 
+# But with without any data reading of MINST and batch teaching. Quite simple for the begin.
+#
+# Author: Vasiliy Vazhesov
+# https://github.com/vasyaod/other-tensorflow-examples 
+ 
 import tensorflow as tf
 import numpy as np
 
